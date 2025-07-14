@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pandas
+scikit-learn
+scikit-surprise
+langchain
+langchain-community
+langchain-google-genai
+requests
+python-dotenv
