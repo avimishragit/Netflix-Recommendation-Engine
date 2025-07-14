@@ -1,0 +1,14 @@
+# Python 3.11+ required for protobuf compatibility
+# Backend requirements for Netflix Recommendation System
+fastapi
+uvicorn
+pandas
+scikit-learn
+scipy
+surprise
+langchain==0.3.25
+langchain-google-genai==2.1.6
+langchain-community==0.3.24
+protobuf==3.20.3
+python-dotenv
+requests
